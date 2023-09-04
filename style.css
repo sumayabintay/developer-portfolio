@@ -22,6 +22,8 @@ h1 {
 
 
 
+
+
 }
 
 .half-width {
@@ -53,4 +55,13 @@ h1 {
     background-image: url(images/PngItem_1226499.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+
+.green {
+    color: deeppink;
+}
+
+.red {
+    margin-left: 75px;
 }
